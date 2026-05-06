@@ -1,0 +1,7 @@
+A) a=7 
+B) b = a-6
+while b<a 
+{
+v[b] = b+a 
+b= b+ 2
+}

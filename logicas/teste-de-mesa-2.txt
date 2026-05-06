@@ -1,0 +1,6 @@
+A) a=2
+loop while (a<6) {
+    V[a] = 10*a 
+    next 
+    a +=1
+}

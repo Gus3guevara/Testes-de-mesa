@@ -1,0 +1,14 @@
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\obj\Debug\net10.0\testes-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\obj\Debug\net10.0\testes-.AssemblyInfoInputs.cache
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\obj\Debug\net10.0\testes-.AssemblyInfo.cs
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\obj\Debug\net10.0\testes-.csproj.CoreCompileInputs.cache
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\bin\Debug\net10.0\testes-.exe
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\bin\Debug\net10.0\testes-.deps.json
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\bin\Debug\net10.0\testes-.runtimeconfig.json
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\bin\Debug\net10.0\testes-.dll
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\bin\Debug\net10.0\testes-.pdb
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\obj\Debug\net10.0\testes-.dll
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\obj\Debug\net10.0\refint\testes-.dll
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\obj\Debug\net10.0\testes-.pdb
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\obj\Debug\net10.0\testes-.genruntimeconfig.cache
+C:\Users\gus3g\Documents\vstudio\Testes-de-mesa\testes-\obj\Debug\net10.0\ref\testes-.dll
