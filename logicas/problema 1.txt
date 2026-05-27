@@ -1,0 +1,19 @@
+Criação de uma tabela que calcule pela formula
+    F = p * (1 + i) ^ n
+F = Valor Futuro
+p = Valor presente
+i = Taxa de juros
+n = periodo de tempo(a.m e a.n.)
+passos definidos
+ inicializar Valor
+  decimal valorPresente
+ inicializar Taxa(i)
+  decimal taxaJuros
+ inicializar periodo 
+  int periodoMes
+ calcular o percentual taxa 
+  decimal percentualJuros
+valores para teste
+p=1000
+i=5.3
+n=6
