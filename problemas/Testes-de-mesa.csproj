@@ -6,6 +6,7 @@
     <RootNamespace>Testes_de_mesa</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Program</StartupObject>
   </PropertyGroup>
 
 </Project>

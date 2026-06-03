@@ -1,0 +1,14 @@
+Criação de uma tabela que calcule pela formula
+    F = p*(! + i)^ n
+F= valor futuro
+p= valor presente
+i = taxa de juros
+n periodo de tempo (a.m. e a.n)
+Passos definidos
+    ler valor presente
+    decimal valorPresente 
+    ler taxa de juros
+    decimal  taxaJurosPerc 
+    ler periodo de tempo a.a.
+    int periodoMes 
+    Calcular periodoMes a.a
