@@ -1,0 +1,13 @@
+Criação de uma tabela que calcule pela formula
+    p = F/(! + i)^ n
+F= valor futuro
+p= valor presente
+i = taxa de juros
+n periodo de tempo (a.m. e a.n)
+ler valor futuro
+F = 7390,61
+ler periodo ao ano
+a.a.=2
+ler taxa 
+i = 1.25%
+resolver o calculo

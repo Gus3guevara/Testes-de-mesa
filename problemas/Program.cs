@@ -6,7 +6,7 @@ public class Program
 
     public void Act()
     {
-        Console.WriteLine("Qual teste de mesa deseja executar? (1, 2, 3 ou 4)");
+        Console.WriteLine("Qual teste de mesa deseja executar? (1, 2, 3, 4 ou 5)");
         Console.WriteLine("informe o numero do problema;");
         int problema = int.Parse(Console.ReadLine());
         switch (problema)
@@ -28,6 +28,11 @@ public class Program
                 Console.WriteLine("\nProblema 4:");
                 new Problema_4().Model();
                 break;
+            case 5:
+                Console.WriteLine("\nProblema 5:");
+                new Problema_5().Table();
+                break;
+
             default:
                 Console.WriteLine("Opção invalida, tente novamente.");
                 break;
