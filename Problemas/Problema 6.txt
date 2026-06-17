@@ -1,0 +1,6 @@
+utilizando a formula de juros simples, f=p*(1+i)^N 
+realize a criação de uma tabela e teste com os valores
+p = 1000, 5500 ,12000
+i = 3%, 2,48% e 2%
+n= 8 meses e 10 dias
+repetir calculo todo mês e depois uma vez para os dias

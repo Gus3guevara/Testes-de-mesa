@@ -1,0 +1,15 @@
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\bin\Debug\net10.0\Soluções.exe
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\bin\Debug\net10.0\Soluções.deps.json
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\bin\Debug\net10.0\Soluções.runtimeconfig.json
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\bin\Debug\net10.0\Soluções.dll
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\bin\Debug\net10.0\Soluções.pdb
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\Soluções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\Soluções.AssemblyInfoInputs.cache
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\Soluções.AssemblyInfo.cs
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\Soluções.csproj.CoreCompileInputs.cache
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\Soluções.sourcelink.json
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\Soluções.dll
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\refint\Soluções.dll
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\Soluções.pdb
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\Soluções.genruntimeconfig.cache
+C:\Users\gustavoguerava\source\repos\Gus3guevara\Testes-de-mesa\Soluções\obj\Debug\net10.0\ref\Soluções.dll
